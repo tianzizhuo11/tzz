@@ -11,6 +11,7 @@ public class New3Test {
   @Test
   public void f() {
 	  assertTrue(true);
+	  assertTrue(true);
   }
   @BeforeMethod
   public void beforeMethod() {
